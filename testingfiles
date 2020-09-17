@@ -1,0 +1,22 @@
+gcc -o lab3 lab3.c
+
+./lab3 <sampleInput1.txt> myOutput1.txt   
+diff sampleOutput1.txt myOutput1.txt 
+
+./lab3 <sampleInput2.txt> myOutput2.txt   
+diff sampleOutput2.txt myOutput2.txt 
+
+./lab3 <sampleInput3.txt> myOutput3.txt   
+diff sampleOutput3.txt myOutput3.txt 
+
+./lab3 <sampleInput4.txt> myOutput4.txt   
+diff sampleOutput4.txt myOutput4.txt 
+
+./lab3 <sampleInput5.txt> myOutput5.txt   
+diff sampleOutput5.txt myOutput5.txt 
+
+./lab3 <sampleInput6.txt> myOutput6.txt   
+diff sampleOutput6.txt myOutput6.txt 
+
+./lab3 <sampleInput7.txt> myOutput7.txt   
+diff sampleOutput7.txt myOutput7.txt 

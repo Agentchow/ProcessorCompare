@@ -1,0 +1,30 @@
+Please enter the number of processors [1 to 10]:
+Processor Name (no spaces):
+Processor cost (US dollars):
+Processor clock rate (in GHz):
+Processor average CPI:
+Processor Name (no spaces):
+Processor cost (US dollars):
+Processor clock rate (in GHz):
+Processor average CPI:
+Processor Name (no spaces):
+Processor cost (US dollars):
+Processor clock rate (in GHz):
+Processor average CPI:
+Processor Name (no spaces):
+Processor cost (US dollars):
+Processor clock rate (in GHz):
+Processor average CPI:
+Processor Name (no spaces):
+Processor cost (US dollars):
+Processor clock rate (in GHz):
+Processor average CPI:
+Which value would you like to sort on (from lowest to highest)?
+Would you rather place emphasis on values above or below a certain threshold?
+What is the threshold value for your comparison?
+Your emphasized list of processors is...
+I3-8100
+I5-8400
+i7-1060g7
+i7-1065g7
+i7-10710u
